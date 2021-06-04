@@ -1,7 +1,6 @@
 // built-in CSS support
 module.exports = {
   plugins: [
-    "tailwindcss",
     "postcss-flexbugs-fixes",
     [
       "postcss-preset-env",
